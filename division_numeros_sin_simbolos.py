@@ -17,6 +17,8 @@ while resultado == 0:
     num1 = int(num1)
     num2 = int(num2)
 
+    """ Código que realiza el proceso de calcular el resultado de la división de dos números, 
+    sin utilizar los símbolos de división(/) o de multiplicación(*). """
     while suma < num1:
         suma += num2
         if suma <= num1:
