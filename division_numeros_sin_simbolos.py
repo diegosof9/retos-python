@@ -22,7 +22,7 @@ while resultado == 0:
     while suma < num1:
         suma += num2
         if suma <= num1:
-            resultado += 11
+            resultado += 1
         # print(test)
     
     if resultado == 0:
